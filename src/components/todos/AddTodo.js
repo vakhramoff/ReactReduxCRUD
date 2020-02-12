@@ -79,7 +79,7 @@ class AddTodo extends Component {
                         </div>
                         <input
                             type="submit"
-                            value="Обновить дело"
+                            value="Добавить дело"
                             className="btn btn-light btn-block"
                         />
                     </form>
